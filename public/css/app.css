@@ -1,0 +1,8 @@
+.page{
+    min-height: 72vh;
+}
+/* home */
+.hero img{
+    height: 63vh;
+    width: 100%;
+}
